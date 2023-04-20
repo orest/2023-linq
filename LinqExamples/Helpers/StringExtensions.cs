@@ -15,6 +15,7 @@ namespace LinqExamples.Helpers {
             return defaultValue;
         }
 
+        //very interesting code
         public static bool IsValidZip(this string value, int validLength) {
             if (validLength == 9 || validLength == 5) {
                 if (validLength == 9) {
