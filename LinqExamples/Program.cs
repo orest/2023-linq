@@ -14,7 +14,7 @@
 
 
 //var person = new Person() {
-//    FirstName = "Jim",
+//    FirstName = "Orest Test",
 
 //};
 
